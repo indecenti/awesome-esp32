@@ -111,6 +111,7 @@ Elsewhere, write-ups by @ardchain posted as threads on X (third-party, not repo 
 - [ESPHome](https://github.com/esphome/esphome) - Describe a device in YAML, get firmware; the default way ESP32s enter Home Assistant.
 - [Family mruby](https://github.com/family-mruby/family-mruby) - Multitasking OS running mruby, MicroPython, Lua and BASIC on the chip, with a windowed desktop and an on-device editor. ([demo](https://www.youtube.com/watch?v=9vkRaOoxJJI)) `M5Stack Tab5` or `Narya board`
 - [OnlyClaws ESP](https://github.com/shinjiyu/onlyclaws-esp) - Firmware you flash once, after which an AI agent deploys Lua apps to the board over HTTP to draw on the screen, play sound, read sensors and report events back. ([demo](https://www.bilibili.com/video/BV179p76zEQN/)) `Waveshare ESP32-S3-RLCD-4.2`
+- [NucleoOS](https://github.com/indecenti/NucleoOs) - Operating system for a keyboard handheld with no PSRAM: a native launcher with 50+ apps and games, a full desktop the device serves to the browser, an offline assistant written in C, and its own Game Boy and Game Gear emulators. ([demo](https://github.com/indecenti/NucleoOs/blob/main/docs/screenshots/nucleoos-cardputer-adv.jpg)) `M5Stack Cardputer` or `M5Stack Cardputer-Adv`
 
 ### Utilities & SDKs
 

@@ -114,6 +114,19 @@ touch screen, a 2MP MIPI-CSI camera, ES8388 audio codec with dual microphones an
 speaker, and a removable NP-F550 battery.
 [Product page](https://shop.m5stack.com/products/m5stack-tab5-iot-development-kit-esp32-p4)
 
+## M5Stack Cardputer
+
+Card-sized keyboard computer: M5StampS3 (ESP32-S3FN8, 8 MB flash, no PSRAM), 1.14-inch
+240x135 LCD, 56-key keyboard, microphone, speaker, IR transmitter and a microSD slot.
+[Product page](https://docs.m5stack.com/en/core/Cardputer)
+
+## M5Stack Cardputer-Adv
+
+Revision of the Cardputer on an M5StampS3A (ESP32-S3FN8, no PSRAM) with the same 240x135
+screen, a TCA8418 keyboard controller and an ES8311 audio codec: keyboard and audio drivers
+do not carry over from the original.
+[Product page](https://docs.m5stack.com/en/core/Cardputer-Adv)
+
 ## Ulanzi Smart Pixel Clock TC001
 
 A shipped consumer clock built on an ESP32 driving a 32x8 addressable LED matrix, with
